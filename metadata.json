@@ -1,0 +1,9 @@
+
+{
+  "name": "PlanIt Broh",
+  "description": "Oops We Booked It! - Premium travel booking application with AI-powered itineraries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
